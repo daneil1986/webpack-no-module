@@ -1,0 +1,19 @@
+{
+  "name": "webpack-no-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daneil1986/webpack-no-module.git"
+  },
+  "author": "lixianliang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daneil1986/webpack-no-module/issues"
+  },
+  "homepage": "https://github.com/daneil1986/webpack-no-module#readme"
+}
